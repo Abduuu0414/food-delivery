@@ -13,7 +13,7 @@ function HomePage() {
       <header className="bg-[#FFC244] py-4 sticky top-0 z-10">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold text-black">Bd&Bn</div>
+            <div className="text-2xl font-bold text-black">Bd&Bnn</div>
             <div className="flex items-center gap-3">
               <button className="flex items-center text-black bg-transparent hover:bg-[#ffcf65] px-3 py-2 rounded-md">
                 <i className="fas fa-map-marker-alt mr-2"></i>
