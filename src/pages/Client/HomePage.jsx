@@ -23,7 +23,7 @@ function HomePage() {
                 to="/client/dashboard"
                 className="text-black bg-transparent hover:bg-[#ffcf65] px-3 py-2 rounded-md"
               >
-                Sign in
+                Sign inn
               </Link>
             </div>
           </div>
